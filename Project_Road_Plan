@@ -1,9 +1,17 @@
 
 Time Plan = 
 
-Dataset = 
+Datasets = 
 
 Methodology = 
+
+Train = 
+
+Test =
+
+Evaluation =
+
+Visualization =
 
 Adversarial Attack Type = 
 
@@ -11,4 +19,8 @@ Result Expectations =
 
 Code = 
 
-Other papers Codes
+Other papers Codes =
+
+Image is target? or Label? (targeted or non-targeted) or both =
+
+
