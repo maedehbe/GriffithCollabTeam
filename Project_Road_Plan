@@ -13,7 +13,8 @@ Evaluation =
 
 Visualization =
 
-Adversarial Attack Type = 
+Adversarial Attack Type = FGSM (attack) 
+Defence = 
 
 Result Expectations = 
 
@@ -22,5 +23,11 @@ Code =
 Other papers Codes =
 
 Image is target? or Label? (targeted or non-targeted) or both =
+
+Journal Types that we go , look for datasets
+
+robustness of the model
+
+layers of CNN model
 
 
