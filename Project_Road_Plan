@@ -1,4 +1,5 @@
 Important Address:  https://faculty.cc.gatech.edu/~judy/  ,, https://www.youtube.com/watch?v=AB39bb2_Vtw&list=PLT6XqV0BKKrLEXxUqW7k88pldpdYV1ldF&index=2
+https://paperswithcode.com/task/adversarial-attack
 
 
 Time Plan = 
@@ -31,5 +32,7 @@ Journal Types that we go , look for datasets
 robustness of the model
 
 layers of CNN model
+
+Attack the model at the inference time or Training Time
 
 
