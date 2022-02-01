@@ -33,6 +33,10 @@ robustness of the model
 
 layers of CNN model
 
-Attack the model at the inference time or Training Time
+Attack the model at the inference time or Training Time (you can use the system as Malicous system)
+d(x,x*)<=B
+Iterative attack could help PGD
+How is our strategy for defence??
+transferability of attack??
 
 
