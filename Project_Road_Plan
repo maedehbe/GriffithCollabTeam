@@ -38,5 +38,6 @@ d(x,x*)<=B
 Iterative attack could help PGD
 How is our strategy for defence??
 transferability of attack??
+Train on N-1 is better than 1
 
 
