@@ -42,4 +42,4 @@ Train on N-1 is better than 1
 
 Ensemble, is good for non targeted
 
-unknown Label, Training Set and Model Architecture are the most important for misleading the AD Attack
+unknown Label, Training Set and Model Architecture (backdor) are the most important for misleading the AD Attack
