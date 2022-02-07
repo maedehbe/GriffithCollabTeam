@@ -43,3 +43,7 @@ Train on N-1 is better than 1
 Ensemble, is good for non targeted
 
 unknown Label, Training Set and Model Architecture (backdor) are the most important for misleading the AD Attack
+
+change the image by replacing all parts by new image, or by replacing some parts like mouth 
+
+generalization problem is important, one model might work well for one dataset and not work for the others 
