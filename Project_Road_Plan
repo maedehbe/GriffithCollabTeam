@@ -51,3 +51,5 @@ generalization problem is important, one model might work well for one dataset a
 How much purturb is needed before getting start to misclassifying one perticular image?
 
 Supervised or semi-supervised
+
+wether the instance is reliable or not?
