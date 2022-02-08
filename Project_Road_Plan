@@ -49,3 +49,5 @@ change the image by replacing all parts by new image, or by replacing some parts
 generalization problem is important, one model might work well for one dataset and not work for the others 
 
 How much purturb is needed before getting start to misclassifying one perticular image?
+
+Supervised or semi-supervised
