@@ -53,3 +53,14 @@ How much purturb is needed before getting start to misclassifying one perticular
 Supervised or semi-supervised
 
 wether the instance is reliable or not?
+
+Decide when to learn:
+Learning can be drailed by:
+- Unreliable labels 
+- label noise
+- manipulated
+- model misalignment
+- Unreliable samples
+- inherentely ambiguous
+- different from prior data
+- manipulated
